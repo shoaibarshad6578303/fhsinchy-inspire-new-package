@@ -1,0 +1,15 @@
+{
+    "name": "fhsinchy/inspire",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shoaib Arshad",
+            "email": "shoaibarshad6578303@gmail.com"
+        }
+    ],
+    "require": {}
+}
